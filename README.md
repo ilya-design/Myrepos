@@ -1,2 +1,2 @@
 # Myrepos
-I'm trying to adjust
+I'm trying to adapt
